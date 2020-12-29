@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+Soveran yixiang zhong clockwingsoar
 # THANKS
 
     <name>
