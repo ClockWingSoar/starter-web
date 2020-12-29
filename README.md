@@ -17,6 +17,7 @@ anyone could add files into this repository
 currently only soveran zhong is maintaining this file
 add another line
 the fourth line
+Please fork this repository and then issue pull requests for review
 
 
 ## Copy Right
