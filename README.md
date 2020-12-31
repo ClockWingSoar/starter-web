@@ -22,4 +22,4 @@ Please fork this repository and then issue pull requests for review
 
 
 ## Copy Right
-Git 2020 traning.
+Git 2020 traning. All rights reserved
